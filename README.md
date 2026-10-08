@@ -59,18 +59,17 @@ The model was designed to support reliable filtering, aggregation, and cross-fun
 
 ## Key Performance Indicators
 
-Key KPIs developed for the analysis include:
+The dashboards developed for this project highlight the following operational KPIs:
 
-- Total Loads
-- Total Revenue
-- Average Revenue per Load
-- On-Time Delivery Rate
-- Average Detention Time
-- Safety Incident Rate
-- Preventable Incident Rate
-- Injury Rate
-- Fleet Utilization
-- Fuel Efficiency
+- Total Revenue — $262.5M
+- Total Loads — 85K
+- Total Trips — 85K
+- Total Miles — 122.16K
+- Revenue per Mile — $2.15
+- Total Fuel Cost — $95.59M
+- Total Maintenance Cost — $5.7M
+- Safety Incidents — 170
+- On-Time Delivery — 56%
 
 ## Key Findings
 
